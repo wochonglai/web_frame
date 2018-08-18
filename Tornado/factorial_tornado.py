@@ -4,7 +4,6 @@ import tornado
 import tornado.web
 
 
-
 # 定义一个阶乘服务对象
 class FactorialService(object):
   def __init__(self):
